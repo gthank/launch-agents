@@ -26,3 +26,12 @@ The Jobs
     Obviously, if you haven't installed ``bcvi``, this isn't much use to you.
 
 .. _bcvi: http://search.cpan.org/~grantm/App-BCVI-3.08/lib/App/BCVI.pm
+
+Caveats
+-------
+
+I've only tested these jobs using my personal Mac (running Mountain Lion
+and the version of perl_ you can get from Homebrew_).
+
+.. _perl: http://www.perl.org
+.. _Homebrew: http://mxcl.github.io/homebrew/
